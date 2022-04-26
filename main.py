@@ -30,9 +30,6 @@ r.cookies.set_policy(BlockCookies())
 def Banner():
     clearConsole()
     Banner1 = r"""
-╔╦╗  ╦  ╦╔═  ╔═╗  ╦ ╦  ╔═╗  ╦═╗  ╔═╗
- ║   ║  ╠╩╗  ╚═╗  ╠═╣  ╠═╣  ╠╦╝  ║╣ 
- ╩   ╩  ╩ ╩  ╚═╝  ╩ ╩  ╩ ╩  ╩╚═  ╚═╝
         discord.gg/devcenter
 """
 
